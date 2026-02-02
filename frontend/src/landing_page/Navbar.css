@@ -1,0 +1,22 @@
+.btn-link-nav {
+  background: none;
+  border: none;
+  padding: 0;
+  color: inherit;
+  cursor: pointer;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.btn-link-nav:hover {
+  color: #667eea;
+}
+
+.logout-btn {
+  color: #dc3545;
+  font-weight: 600;
+}
+
+.logout-btn:hover {
+  color: #c82333;
+}
